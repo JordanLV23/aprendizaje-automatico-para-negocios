@@ -1,6 +1,6 @@
-# Descubriendo tesoros bajo tierra 🚀
+# Proyecto Bootcamp ciencia de datos- Determinar cual área es más rentable para realizar inversión petrolera🚀
 
-Hola, soy Jordan y este proyecto nació de mi curiosidad por aplicar lo aprendido en machine learning al mundo de los negocios. Después de terminar otro sprint, me propuse ayudar a la ficticia empresa **OilyGiant** a decidir dónde perforar nuevos pozos petroleros para que la inversión valiera la pena.
+Hola, soy Jordan y este proyecto es parte del diplomado que me ayudó en mi formación en Ciencia de Datos. Este proyecto me permitió demostrar mis conocimiento de Aprendizaje supervisado (IA) para ayudar a la empresa **OilyGiant** ya que quería saber que lugares tenian mejor posibilidad de ser rentables. Tenía que encontrar con la los datos proporcionados de 3 diferentes puntos, cuales dos de ellos merecían la pena para dicha inversión. 
 
 ## ¿Qué hice?
 
