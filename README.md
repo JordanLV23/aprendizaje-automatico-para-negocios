@@ -1,6 +1,6 @@
 # Proyecto Diplomado Data Science para encontrar los mejores lugares para realizar una inversión de extracción de petroleo 🚀
 
-Hola, soy Jordan y este proyecto nació de mi curiosidad por aplicar lo aprendido en machine learning al mundo de los negocios. Después de terminar otro sprint, me propuse ayudar a la ficticia empresa OilyGiant a decidir dónde perforar nuevos pozos petroleros para que la inversión valiera la pena.
+Hola, soy Jordan y este proyecto es parte de un sprint de mi diplomado de Ciencia de datos donde demuestro mis conocimientos de aprendizaje supervisado (IA) para ayudar a una empresa ficticia la cual quiere encontrar los dos mejores lugares para realizar una inversión para la extracción de petroleo. 
 
 ## ¿Qué hice?
 - Analicé tres conjuntos de datos de regiones distintas, cada uno con características geológicas y el volumen real de reservas.
