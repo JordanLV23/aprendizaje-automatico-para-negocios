@@ -1,4 +1,4 @@
-# Descubriendo tesoros bajo tierra 🚀
+# Proyecto Diplomado Data Science para encontrar los mejores lugares para realizar una inversión de extracción de petroleo 🚀
 
 Hola, soy Jordan y este proyecto nació de mi curiosidad por aplicar lo aprendido en machine learning al mundo de los negocios. Después de terminar otro sprint, me propuse ayudar a la ficticia empresa OilyGiant a decidir dónde perforar nuevos pozos petroleros para que la inversión valiera la pena.
 
